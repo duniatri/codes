@@ -1,9 +1,9 @@
 ---
-title: Welcome to my website
+title: Codes from duniatri, using R
 layout: page
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  ## Hello R!
 ---
 
-There isn't much going on here yet, but watch this space
+this site supposed to be record my journey in learning, wondering, creating, and sharing everything using R. how will it goes? let's wait and see!
