@@ -7,3 +7,5 @@ This is a very simple starting point if you wish to use Alembic [as a Jekyll the
 or
 
 **[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d01d3cb4-b056-4cab-bce4-cfaacefeee0b/deploy-status)](https://app.netlify.com/sites/codes-duniatri/deploys)
