@@ -49,7 +49,7 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: "Records"
+    title: Records
     output: true
     description: "Learning recorder"
     feature_text: |
