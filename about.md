@@ -3,4 +3,4 @@ layout: page
 title: About this website
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+well.. here i am. back at writing. start to wonder again. building something again with more curiousity (i hope)
