@@ -53,5 +53,5 @@ collections:
     output: true
     description: "Learning recorder"
     feature_text: |
-      Welcome to my blog
+      It's a train of thought
     feature_image: "https://picsum.photos/2560/600?image=866"
