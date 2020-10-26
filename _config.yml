@@ -22,9 +22,9 @@ plugins:
 url: 'https://mydomain.com'
 baseurl: ''
 title: 'My website'
-description: 'This is my new website'
+description: 'Journey recorder'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "/Users/duniatri/Downloads/faceless.jpg"
 
 # Pagination
 paginate: 5
