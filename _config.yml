@@ -21,8 +21,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'Journey recorder'
+title: 'My Journey Recorder'
+description: 'This website is to record my journey in learning something, making something, or destructing something, using R'
 permalink: pretty
 logo: "https://lh3.googleusercontent.com/XN_L047DQr8ajGV37YKTULBv3BqSYCC5kK7tgbPoNobvqjBTq5lNeuNbmaJBAI5WA1QpX7tQF3o8PJJEXXgDIcaWrLt3Acxm_bmmm6UJ72IxldWDr3Wi5cR4c2iHB9wSQb_tqSL_1w9iFtO1Yncdig-DCisfwjupK-XNoEr5agGhQekMQwDIjf9sHNtayaXeeBuhLJv2Dn41lC-paGq2b9C0YN88g1Z_c2ff5NsLK2Io7qrSA0c3IeR40TheNmbZ8DdP3fKt2nKC4SpL8sSi-l4hAhIVfdbdTHYee2RrtU9tTsj3dtiOqNfB2naM2CcQ8o8DdAuh2u0gpIw-63__thuQgBCkDq9AHnEFELfFNE-rvGuC1KqzRk1TlKXmo4xec3zYw6x4xrrT6Zt9LCPwYyWEC0zs6iKyHoVoo5WcIR8MeX_hROKPvicuhwfkUlKnQpqoN2RiT1agEycV9Dj9NfqxNeeM5nZMBslc7mF1bg6ExoCLIfEX4j_V1VXN20MKVp3RX5FkbJ40VhO1PIJ-N5nCwgYh5zw0K6EAs3UDFvtZoKAjI8-gojOzSprxarXLTvV2p731fs9KtWBRawZGaB-Z-_-ZaUPaJzoxI8VJOesQh4D6aMyU7IJ-wWR0U-iXSvat8sEiCFWt1105ELcXgTItY3j-fTlewcYiSnOGiPGm8oP5Bc-s5k7RCdQ39Bk=w603-h633-no?authuser=0"
 
