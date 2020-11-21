@@ -35,5 +35,6 @@ One tip that I can share, you may need to reinstall tinytex by using `tinytex::r
 I'm not sure which one that was made me finally able to generate the PDF file. I did all. Hahaha...
 
 Well, that's all for this post! I hope it will be useful for someone, and at least it will be useful for me. hehe
+next post will be about what I use in tidy-ing the data that I use in the PDF file.
 
 see ya later!
