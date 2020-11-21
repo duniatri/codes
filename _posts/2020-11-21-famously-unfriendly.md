@@ -16,13 +16,13 @@ Googling around, I need package called `tinytext`. Long story short, I install t
 
 But for Windows OS, it's not that easy! Beside you have to install `tinytext`, you also have to separately install MikTex separately, and it's 240.7 MB! Then, after you knit your document, for me, the R Markdown console showing a looooot of red text which means a looooot of errors...
 
-![]("https://github.com/duniatri/codes/blob/master/_posts/pictures/tinytex%20error.JPG")
+<img src="https://github.com/duniatri/codes/blob/master/_posts/pictures/tinytex%20error.JPG" alt="tinytex error" class="inline"/>
 
 But then, out of curiosity, I tried to see the working directory of my project. There, I saw a .tex file, which means, it's a half way to become a PDF file. So the sequence is .Rmd --\> .tex --\> .pdf.
 
 I double click that file, and a new window pop up. It's a Texworks window. I'm guessing it's a part of the MikTex program that I previously installed, and it's like a GUI to process .tex document to become .pdf file.
 
-![]("https://github.com/duniatri/codes/blob/master/_posts/pictures/texworks.JPG")
+<img src="https://github.com/duniatri/codes/blob/master/_posts/pictures/texworks.JPG" alt="texworks window" class="inline"/>
 
 After that new window pop up, I clicked that 'play' green button, let it run for a while, aaaand another new window pop up with newly generated pdf file like I wanted! Yeay!
 
@@ -30,7 +30,7 @@ But you know what? Even at the end I could generate the pdf file, the R Markdown
 
 One tip that I can share, you may need to reinstall tinytex by using `tinytex::reinstall_tinytex()` and/or `tinytex:::install_prebuilt()`, then clear knit cache from the knit button drop down menu.
 
-![]("https://github.com/duniatri/codes/blob/master/_posts/pictures/clear%20knit%20cache.JPG")
+<img src="https://github.com/duniatri/codes/blob/master/_posts/pictures/clear%20knit%20cache.JPG" alt="clean knit cache" class="inline"/>
 
 I'm not sure which one that was made me finally able to generate the PDF file. I did all. Hahaha...
 
