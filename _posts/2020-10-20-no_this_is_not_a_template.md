@@ -26,3 +26,5 @@ I revert back all the changes, then my post suddenly shown up! Eventhough before
 well, as the picture said: "My code doesn't work, I don't know why. My code works, I don't know why"
 
 BIG LOL!! :))
+
+{% include comments.html %}
