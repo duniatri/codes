@@ -38,3 +38,5 @@ Well, that's all for this post! I hope it will be useful for someone, and at lea
 next post will be about what I use in tidy-ing the data that I use in the PDF file.
 
 see ya later!
+
+ {% include comments.html %}
